@@ -1,0 +1,7 @@
+name: my website name
+title: Website Title
+output_dir: "."
+output:
+  html_document:
+    theme: united
+    
